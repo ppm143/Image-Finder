@@ -1,17 +1,15 @@
-# COVID-19 Tracker
+# Pixabay Image Finder
 
-### [Live Site](https://covid19statswebsite.netlify.com/)
+### [Live Site](https://imagefinder-pixabay.netlify.app)
 
-![COVID-19 Tracker](https://i.ibb.co/X87BqVY/Screenshot-2020-04-13-at-10-14-58.png)
+![Pixabay Image Finder](https://ibb.co/1d7zXnq)
 
 ## Introduction
-This is a code repository for the corresponding video tutorial. 
+In this I used React along with Material UI to build an image finder application that uses the PixaBay API to fetch images based on a query string. 
 
-In this video, we will create a full COVID-19 Tracker. We're going to use React, Charts.JS and Material UI.
+I also implemented a Dialog box from Material UI to view the large image.
 
-By the end of this video, you will have a strong understanding of React's workflow and the use of hooks.
-
-API used: https://covid19.mathdro.id/api
+API used: https://pixabay.com/api/
 
 Setup:
 - run ```npm i && npm start```
