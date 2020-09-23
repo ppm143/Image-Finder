@@ -2,7 +2,7 @@
 
 ### [Live Site](https://imagefinder-pixabay.netlify.app)
 
-![Pixabay Image Finder](https://ibb.co/1d7zXnq)
+![Pixabay Image Finder](https://pasteboard.co/JsoT8Ck.png)
 
 ## Introduction
 In this I used React along with Material UI to build an image finder application that uses the PixaBay API to fetch images based on a query string. 
